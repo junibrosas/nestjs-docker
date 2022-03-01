@@ -75,7 +75,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Run through Docker
 
-- Run `docker-compose up`.
+- Run `docker-compose up dev` to run the application in development mode.
 
 ## License
 
